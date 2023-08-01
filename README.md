@@ -1,2 +1,2 @@
-# exoSh
-A list of some exercice using the shell
+# EXOSH
+A list of some exercice using [shell](https://www.shellscript.sh/)
